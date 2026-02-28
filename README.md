@@ -1,6 +1,6 @@
 # India Royale Website
 
-Static website for India Royale with a redesigned front page, interactive takeaway flow, and restaurant-based booking selection.
+Personal hobby project and design proposal for a potential India Royale website redesign.
 
 ## Tech Stack
 
@@ -190,6 +190,3 @@ Before each deploy:
 4. Test desktop + mobile layout
 5. Hard refresh and click-test all CTAs
 
-## License
-
-Private project for India Royale website use.
